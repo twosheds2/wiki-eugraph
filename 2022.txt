@@ -1,0 +1,315 @@
+|-
+|{{opdrts|21|22|Dec|2022|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-15-results-22-12-2022/ Omnisis]
+|''N/A''
+|1,243
+|style="background:#DDE0EE"|'''45%'''
+|32%
+|23%
+|style="background:#4477AA;color:#FFFFFF;"|13%
+|-
+|{{opdrts|15|16|Dec|2022|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-14-results-16-12-2022/ Omnisis]
+|''N/A''
+|1,216
+|style="background:#DDE0EE"|'''45%'''
+|32%
+|23%
+|style="background:#4477AA;color:#FFFFFF;"|13%
+|-
+|{{opdrts|14|15|Dec|2022|year}}
+|[https://docs.cdn.yougov.com/hek4pjc2mv/TheTimes_Brexit_221215.pdf YouGov]
+|''The Times''
+|1,690
+|style="background:#DDE0EE"|'''47%'''
+|34%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|13%
+|-
+|{{opdrts|8|9|Dec|2022|year}}
+|[https://omnisis.co.uk/poll-results/vi-13-results-09-12-2022/ Omnisis]
+|''N/A''
+|1,294
+|style="background:#DDE0EE"|'''44%'''
+|34%
+|22%
+|style="background:#4477AA;color:#FFFFFF;"|10%
+|-
+|{{opdrts|7|8|Dec|2022|year}}
+|[https://redfieldandwiltonstrategies.com/joining-or-staying-out-of-the-eu-referendum-voting-intention-7-8-december-2022/ Redfield & Wilton Strategies]
+|''UK in a Changing Europe''
+|2,000
+|style="background:#DDE0EE"|'''52%'''
+|41%
+|7%
+|style="background:#4477AA;color:#FFFFFF;"|11%
+|-
+|{{opdrts|1|2|Dec|2022|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-12-results-02-12-2022-bylines/ Omnisis]
+|''N/A''
+|1,172
+|style="background:#DDE0EE"|'''45%'''
+|33%
+|22%
+|style="background:#4477AA;color:#FFFFFF;"|12%
+|-
+|{{opdrts|29|1|Dec|2022|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-polling/ BMG Research]
+|''The i''
+|1,571
+|style="background:#DDE0EE"|'''45%'''
+|41%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|4%
+|-
+|{{opdrts|23|24|Nov|2022|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-11-results-24-11-2022/ Omnisis]
+|''N/A''
+|1,172
+|style="background:#DDE0EE"|'''49%'''
+|37%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|12%
+|-
+|{{opdrts|17|18|Nov|2022|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-10-results-18-11-2022/ Omnisis]
+|''N/A''
+|1,159
+|style="background:#DDE0EE"|'''53%'''
+|34%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|19%
+|-
+|{{opdrts|14|15|Nov|2022|year}}
+|[https://docs.cdn.yougov.com/1eh99p5se9/Topline_Eurotrack_Nov22.pdf YouGov]
+|Eurotrack
+|1,689
+|style="background:#DDE0EE"|'''48%'''
+|33%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|15%
+|-
+|{{opdrts|10|11|Nov|2022|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-8-results-04-11-2022/ Omnisis]
+|''N/A''
+|1,181
+|style="background:#DDE0EE"|'''48%'''
+|37%
+|16%
+|style="background:#4477AA;color:#FFFFFF;"|11%
+|-
+|{{opdrts|3|4|Nov|2022|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-8-results-04-11-2022/ Omnisis]
+|''N/A''
+|1,352
+|style="background:#DDE0EE"|'''48%'''
+|35%
+|17%
+|style="background:#4477AA;color:#FFFFFF;"|13%
+|-
+|{{opdrts|27|28|Oct|2022|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-7-results-28-10-2022/ Omnisis]
+|''N/A''
+|1,568
+|style="background:#DDE0EE"|'''51%'''
+|35%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|16%
+|-
+|{{opdrts|24|26|Oct|2022|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-polling-on-voter-intention-and-mini-budget/ BMG Research]
+|''The i''
+|1,353
+|style="background:#DDE0EE"|'''44%'''
+|40%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|4%
+|-
+|{{opdrts|21|22|Oct|2022|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-6-results-22-10-2022/ Omnisis]
+|''N/A''
+|1,353
+|style="background:#DDE0EE"|'''50%'''
+|32%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|18%
+|-
+|{{opdrts||20|Oct|2022|year}}
+|[https://www.omnisis.co.uk/poll-results/VI-5-results-20-10-2022 Omnisis]
+|''N/A''
+|1,382
+|style="background:#DDE0EE"|'''49%'''
+|37%
+|13%
+|style="background:#4477AA;color:#FFFFFF;"|12%
+|-
+|{{opdrts||19|Oct|2022|year}}
+|[https://redfieldandwiltonstrategies.com/joining-or-staying-out-of-the-eu-referendum-voting-intention-19-october-2022/ Redfield & Wilton Strategies]
+|''UK in a Changing Europe''
+|1,500
+|style="background:#DDE0EE"|'''52%'''
+|39%
+|8%
+|style="background:#4477AA;color:#FFFFFF;"|13%
+|-
+|{{opdrts|13|14|Oct|2022|year}}
+|[https://www.omnisis.co.uk/poll-results/VI-4-results-14-10-2022 Omnisis]
+|''N/A''
+|1,403
+|style="background:#DDE0EE"|'''51%'''
+|35%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|16%
+|-
+|{{opdrts|6|7|Oct|2022|year}}
+|[https://www.omnisis.co.uk/poll-results/VI-3-results-07-10-2022 Omnisis]
+|''N/A''
+|1,328
+|style="background:#DDE0EE"|'''47%'''
+|33%
+|20%
+|style="background:#4477AA;color:#FFFFFF;"|14%
+|-
+|{{opdrts|29|30|Sep|2022|year}}
+|[https://www.omnisis.co.uk/poll-results/VI-2-results-30-9-2022 Omnisis]
+|''N/A''
+|1,320
+|style="background:#DDE0EE"|'''42%'''
+|36%
+|22%
+|style="background:#4477AA;color:#FFFFFF;"|6%
+|-
+|{{opdrts|23|26|Sep|2022|year}}
+|[https://www.omnisis.co.uk/poll-results/VI-1-results-23-9-2022 Omnisis]
+|''N/A''
+|1,307
+|style="background:#DDE0EE"|'''49%'''
+|31%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|18%
+|-
+|{{opdrts|20|21|Sep|2022|year}}
+|[https://docs.cdn.yougov.com/bafu57ge4q/Topline_Eurotrack_Sept22.pdf YouGov]
+|Eurotrack
+|1,704
+|style="background:#DDE0EE"|'''46%'''
+|36%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|10%
+|-
+|{{opdrts||19|Aug|2022|year}}
+|[https://redfieldandwiltonstrategies.com/joining-or-staying-out-of-the-eu-referendum-voting-intention-19-august-2022/ Redfield & Wilton Strategies]
+|''UK in a Changing Europe''
+|1,500
+|style="background:#DDE0EE"|'''49%'''
+|42%
+|9%
+|style="background:#4477AA;color:#FFFFFF;"|7%
+|-
+|{{opdrts|4|5|Aug|2022|year}}
+|[https://docs.cdn.yougov.com/romuoinb42/Topline_Eurotrack_Aug22.pdf YouGov]
+|Eurotrack
+|1,669
+|style="background:#DDE0EE"|'''45%'''
+|37%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|8%
+|-
+|{{opdrts|10|11|Jul|2022|year}}
+|[https://docs.cdn.yougov.com/w7yaj99nl8/Topline_Eurotrack_Jul22.pdf YouGov]
+|Eurotrack
+|1,684
+|style="background:#DDE0EE"|'''45%'''
+|38%
+|17%
+|style="background:#4477AA;color:#FFFFFF;"|7%
+|-
+|{{opdrts|19|20|Jun|2022|year}}
+|[https://redfieldandwiltonstrategies.com/joining-staying-out-of-the-eu-referendum-voting-intention-19-20-june-2022/ Redfield & Wilton Strategies]
+|''UK in a Changing Europe''
+|2,000
+|style="background:#DDE0EE"|'''48%'''
+|43%
+|9%
+|style="background:#4477AA;color:#FFFFFF;"|5%
+|-
+|{{opdrts|9|10|Jun|2022|year}}
+|[https://docs.cdn.yougov.com/1wa3mbob2d/Topline_Eurotrack_Jun22.pdf YouGov]
+|Eurotrack
+|1,739
+|style="background:#DDE0EE"|'''45%'''
+|36%
+|20%
+|style="background:#4477AA;color:#FFFFFF;"|9%
+|-
+|{{opdrts|16|17|May|2022|year}}
+|[https://docs.cdn.yougov.com/kouxgekp0r/Topline_Eurotrack_May22.pdf YouGov]
+|N/A
+|1,669
+|style="background:#DDE0EE"|'''41%'''
+|38%
+|21%
+|style="background:#4477AA;color:#FFFFFF;"|3%
+|-
+|{{opdrts||19|Apr|2022|year}}
+|[https://redfieldandwiltonstrategies.com/joining-staying-out-of-the-eu-referendum-voting-intention-19-april-2022/ Redfield & Wilton Strategies]
+|''UK in a Changing Europe''
+|2,000
+|45%
+|style="background:#EEDDDD"|'''47%'''
+|8%
+|style="background:#EE6677;color:#FFFFFF;"|2%
+|-
+|{{opdrts|13|14|Apr|2022|year}}
+|[https://deltapoll.co.uk/wp-content/uploads/2022/04/Deltapoll-MoS220415pdf.pdf Deltapoll]
+|''Mail on Sunday''
+|1,550
+|style="background:#DDE0EE"|'''47%'''
+|40%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|7%
+|-
+|{{opdrts|9|11|Apr|2022|year}}
+|[https://docs.cdn.yougov.com/rvgsg70n3c/Topline_Eurotrack_Apr22.pdf YouGov]
+|Eurotrack
+|1,915
+|style="background:#DDE0EE"|'''43%'''
+|38%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|5%
+|-
+|{{opdrts|16|17|Mar|2022|year}}
+|[https://docs.cdn.yougov.com/grdmog6zot/Topline_Eurotrack_Mar22.pdf YouGov]
+|N/A
+|1,761
+|style="background:#DDE0EE"|'''43%'''
+|35%
+|22%
+|style="background:#4477AA;color:#FFFFFF;"|8%
+|-
+|{{opdrts||20|Feb|2022|year}}
+|[https://redfieldandwiltonstrategies.com/joining-staying-out-of-the-eu-referendum-voting-intention-20-february-2022/ Redfield & Wilton Strategies]
+|''UK in a Changing Europe''
+|2,000
+|41%
+|style="background:#EEDDDD"|'''50%'''
+|9%
+|style="background:#EE6677;color:#FFFFFF;"|9%
+|-
+|{{opdrts|10|11|Feb|2022|year}}
+|[https://docs.cdn.yougov.com/fsolauydhl/Topline_Eurotrack_Feb22_W.pdf YouGov]
+|Eurotrack
+|1,720
+|style="background:#DDE0EE"|'''44%'''
+|36%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|8%
+|-
+|{{opdrts|17|18|Jan|2022|year}}
+|[https://docs.cdn.yougov.com/xyd2h4f3h4/Topline_Eurotrack_Jan22.pdf YouGov]
+|N/A
+|1,695
+|style="background:#DDE0EE"|'''42%'''
+|39%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|3%

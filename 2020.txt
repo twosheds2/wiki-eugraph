@@ -1,0 +1,117 @@
+|-
+|{{opdrts|10|14|Dec|2020|year}}
+|[https://www.kantar.com/inspiration/coronavirus/how-does-britain-feel-about-christmas-covid-19-regulations Kantar]
+|N/A
+|1,137
+|32%
+|style="background:#EEDDDD"|'''34%'''
+|34%
+|style="background:#EE6677;color:#FFFFFF;"|2%
+|-
+|{{opdrts|5|9|Nov|2020|year}}
+|[https://www.kantar.com/inspiration/politics/2020-britain-barometer-uk-public-has-a-gloomy-economic-outlook Kantar]
+|N/A
+|1,141
+|style="background:#DDE0EE"|'''37%'''
+|33%
+|30%
+|style="background:#4477AA;color:#FFFFFF;"|4%
+|-
+|{{opdrts|17|21|Sep|2020|year}}
+|[https://www.kantar.com/inspiration/politics/what-do-people-in-the-uk-think-of-the-new-restrictions Kantar]
+|N/A
+|1,125
+|31%
+|style="background:#EEDDDD"|'''38%'''
+|31%
+|style="background:#EE6677;color:#FFFFFF;"|7%
+|-
+|{{opdrts|10|11|Aug|2020|year}}
+|[https://docs.cdn.yougov.com/eucrlzmxnz/Eurotrack_ToplineResults_Aug2020_W.pdf YouGov]
+|N/A
+|1,595
+|style="background:#DDE0EE"|'''43%'''
+|39%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|4%
+|-
+|{{opdrts|6|10|Aug|2020|year}}
+|[https://www.kantar.com/inspiration/politics/one-in-four-employed-britons-concerned-they-might-lose-their-job Kantar]
+|N/A
+|1,161
+|style="background:#DDE0EE"|'''37%'''
+|33%
+|30%
+|style="background:#4477AA;color:#FFFFFF;"|4%
+|-
+|{{opdrts|2|26|Jul|2020|year}}
+|[https://whatukthinks.org/eu/wp-content/uploads/2020/11/WUKT-EU_July-20-Appendix_final.pdf NatCen]
+|''The UK in a Changing Europe''
+|2,413
+|style="background:#DDE0EE"|'''47%'''
+|39%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|8%
+|-
+|{{opdrts|9|13|Jul|2020|year}}
+|[https://www.kantar.com/uki/inspiration/politics/Eight-in-ten-in-favour-of-local-lockdowns-to-tackle-coronavirus Kantar]
+|N/A
+|1,131
+|33%
+|style="background:#EEDDDD"|'''39%'''
+|28%
+|style="background:#EE6677;color:#FFFFFF;"|6%
+|-
+|{{opdrts|21|22|May|2020|year}}
+|[https://docs.cdn.yougov.com/s2d42wl8b6/Handelsblatt_ToplineResults_May2020_V2.pdf YouGov]
+|Handelsblatt
+|1,669
+|style="background:#DDE0EE"|'''42%'''
+|41%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|1%
+|-
+|{{opdrts|7|9|Apr|2020|year}}
+|[https://www.bmgresearch.co.uk/bmg-polling-results-on-behalf-of-the-independent-2/ BMG Research]
+|''The Independent''
+|1,371
+|43%
+|style="background:#EEDDDD"|'''47%'''
+|10%
+|style="background:#EE6677;color:#FFFFFF;"|4%
+|-
+|{{opdrts|24|26|Mar|2020|year}}
+|[https://www.ncpolitics.uk/wp-content/uploads/sites/5/2020/04/bloomberg-brexit-2020-03.pdf Number Cruncher Politics]
+|''Bloomberg''
+|1,010
+|38%
+|style="background:#EEDDDD"|'''47%'''
+|14%
+|style="background:#EE6677;color:#FFFFFF;"|9%
+|-
+|{{opdrts|3|6|Mar|2020|year}}
+|[https://www.bmgresearch.co.uk/bmg-polling-results-on-behalf-of-the-independent/ BMG Research]
+|''The Independent''
+|1,337
+|40%
+|style="background:#EEDDDD"|'''48%'''
+|12%
+|style="background:#EE6677;color:#FFFFFF;"|8%
+|-
+|{{opdrts|4|7|Feb|2020|year}}
+|[https://www.bmgresearch.co.uk/bmg-independent-labour-policies-popular-but-many-want-change-in-direction-2/ BMG Research]
+|''The Independent''
+|1,503
+|42%
+|style="background:#EEDDDD"|'''46%'''
+|12%
+|style="background:#EE6677;color:#FFFFFF;"|4%
+|-
+|{{opdrts|4|5|Feb|2020|year}}
+|[https://docs.cdn.yougov.com/v17h1b66px/Handelsblatt_ToplineResults_Feb2020_public.pdf YouGov]
+|Handelsblatt
+|1,578
+|style="background:#DDE0EE"|'''42%'''
+|40%
+|20%
+|style="background:#4477AA;color:#FFFFFF;"|2%

@@ -1,0 +1,216 @@
+|-
+|{{opdrts||23|Dec|2021|year}}
+|[https://www.opinium.com/wp-content/uploads/2021/12/VI-2021-12-21-Observer-Tables-FINAL.xlsx Opinium]
+|''The Observer''
+|1,904
+|41%
+|style="background:#EEDDDD"|'''42%'''
+|17%
+|style="background:#EE6677;color:#FFFFFF;"|1%
+|-
+|{{opdrts||13|Dec|2021|year}}
+|[https://kantarpublic.com/download/solutiontables/138/Kantar%20Britain%20Barometer%20December%202021.pdf Kantar]
+|N/A
+|1,074
+|style="background:#DDE0EE"|'''36%'''
+|33%
+|30%
+|style="background:#4477AA;color:#FFFFFF;"|3%
+|-
+|{{opdrts|10|12|Dec|2021|year}}
+|[https://comresglobal.com/polls/attitudes-to-brexit-the-independent/ Savanta ComRes]
+|''The Independent''
+|2,096
+|style="background:#DDE0EE"|'''44%'''
+|43%
+|10%
+|style="background:#4477AA;color:#FFFFFF;"|1%
+|-
+|{{opdrts|2|3|Dec|2021|year}}
+|[https://docs.cdn.yougov.com/8ttdjxvehn/Eurotrack_Dec21_Topline.pdf YouGov]
+|Eurotrack
+|1,703
+|style="background:#DDE0EE"|'''45%'''
+|37%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|8%
+|-
+|{{opdrts||22|Nov|2021|year}}
+|[https://kantarpublic.com/download/solutiontables/137/November+Barometer+Tables%20(1).pdf Kantar]
+|N/A
+|1,119
+|style="background:#DDE0EE"|'''34%'''
+|32%
+|34%
+|style="background:#4477AA;color:#FFFFFF;"|2%
+|-
+|{{opdrts|16|17|Nov|2021|year}}
+|[https://docs.cdn.yougov.com/p5atgl5h8v/Eurotrack_Nov21_Topline_W.pdf YouGov]
+|Eurotrack
+|1,712
+|style="background:#DDE0EE"|'''44%'''
+|39%
+|16%
+|style="background:#4477AA;color:#FFFFFF;"|5%
+|-
+|{{opdrts||9|Nov|2021|year}}
+|[https://redfieldandwiltonstrategies.com/joining-staying-out-of-the-eu-referendum-voting-intention-9-november-2021/ Redfield & Wilton Strategies]
+|''UK in a Changing Europe''
+|1,500
+|44%
+|style="background:#EEDDDD"|'''50%'''
+|6%
+|style="background:#EE6677;color:#FFFFFF;"|6%
+|-
+|{{opdrts|5|7|Nov|2021|year}}
+|[https://comresglobal.com/polls/eu-referendum-polling-12th-november-2021/ ComRes]
+|N/A
+|1,687
+|style="background:#DDE0EE"|'''48%'''
+|41%
+|12%
+|style="background:#4477AA;color:#FFFFFF;"|7%
+|-
+|{{opdrts|12|13|Oct|2021|year}}
+|[https://docs.cdn.yougov.com/27g4wm4m50/Eurotrack_Oct21_Topline_W.pdf YouGov]
+|Eurotrack
+|1,659
+|style="background:#DDE0EE"|'''41%'''
+|37%
+|22%
+|style="background:#4477AA;color:#FFFFFF;"|4%
+|-
+|{{opdrts|15|16|Sep|2021|year}}
+|[https://docs.cdn.yougov.com/8r4kwdzdlz/Eurotrack_Sep21_Topline_W.pdf YouGov]
+|Eurotrack
+|1,635
+|style="background:#DDE0EE"|'''41%'''
+|39%
+|21%
+|style="background:#4477AA;color:#FFFFFF;"|2%
+|-
+|{{opdrts|12|13|Aug|2021|year}}
+|[https://docs.cdn.yougov.com/itmfxo6knu/Eurotrack_Aug21_Topline_W.pdf YouGov]
+|Eurotrack
+|1,767
+|style="background:#DDE0EE"|'''41%'''
+|style="background:#EEDDDD"|'''41%'''
+|18%
+|Tie
+|-
+|{{opdrts|20|21|Jul|2021|year}}
+|[https://docs.cdn.yougov.com/gss9k9x0n5/Eurotrack_Jul21_Topline.pdf YouGov]
+|Eurotrack
+|1,767
+|39%
+|style="background:#EEDDDD"|'''41%'''
+|20%
+|style="background:#EE6677;color:#FFFFFF;"|2%
+|-
+|{{opdrts|22|23|Jun|2021|year}}
+|[https://docs.cdn.yougov.com/qikvklgzdx/Eurotrack_June21_Topline_W_1st.pdf YouGov]
+|Eurotrack
+|1,711
+|39%
+|style="background:#EEDDDD"|'''41%'''
+|20%
+|style="background:#EE6677;color:#FFFFFF;"|2%
+|-
+|{{opdrts|18|20|Jun|2021|year}}
+|[https://comresglobal.com/polls/brexit-five-year-anniversary-polling-23rd-june-2021/ ComRes]
+|N/A
+|2,191
+|style="background:#DDE0EE"|'''42%'''
+|style="background:#EEDDDD"|'''42%'''
+|16%
+|Tie
+|-
+|{{opdrts|24|25|May|2021|year}}
+|[https://docs.cdn.yougov.com/l29mlr3gyt/FULL_Eurotrack_May21_Topline.pdf YouGov]
+|Eurotrack
+|1,622
+|39%
+|style="background:#EEDDDD"|'''44%'''
+|17%
+|style="background:#EE6677;color:#FFFFFF;"|5%
+|-
+|{{opdrts|22|26|Apr|2021|year}}
+|[https://www.kantarpublic.com/download/documents/237/Kantar+Public+Britain+Barometer_April+2021+tables.pdf Kantar]
+|N/A
+|1,115
+|31%
+|style="background:#EEDDDD"|'''37%'''
+|32%
+|style="background:#EE6677;color:#FFFFFF;"|6%
+|-
+|{{opdrts|21|22|Apr|2021|year}}
+|[https://docs.cdn.yougov.com/hgj534n2wg/Eurotrack_Apr21_Topline.pdf YouGov]
+|Eurotrack
+|1,730
+|38%
+|style="background:#EEDDDD"|'''43%'''
+|19%
+|style="background:#EE6677;color:#FFFFFF;"|5%
+|-
+|{{opdrts|16|19|Mar|2021|year}}
+|[https://www.bmgresearch.co.uk/westminster-voting-intention-results-march-2021/ BMG Research]
+|''The Independent''
+|1,498
+|43%
+|style="background:#EEDDDD"|'''49%'''
+|8%
+|style="background:#EE6677;color:#FFFFFF;"|6%
+|-
+|{{opdrts|15|16|Mar|2021|year}}
+|[https://docs.cdn.yougov.com/jnrcxme5cc/Eurotrack_Mar21_Topline_W.pdf YouGov]
+|Eurotrack
+|1,672
+|40%
+|style="background:#EEDDDD"|'''41%'''
+|18%
+|style="background:#EE6677;color:#FFFFFF;"|1%
+|-
+|{{opdrts|18|22|Feb|2021|year}}
+|[https://www.kantar.com/uki/inspiration/society/majority-of-britons-support-vaccine-passports-for-travel Kantar]
+|N/A
+|1,114
+|style="background:#DDE0EE"|'''33%'''
+|style="background:#EEDDDD"|'''33%'''
+|35%
+|Tie
+|-
+|{{opdrts|16|17|Feb|2021|year}}
+|[https://docs.cdn.yougov.com/zdhqxsts2n/Eurotrack_Feb21_Topline.pdf YouGov]
+|Eurotrack
+|1,697
+|39%
+|style="background:#EEDDDD"|'''41%'''
+|20%
+|style="background:#EE6677;color:#FFFFFF;"|2%
+|-
+|{{opdrts|21|25|Jan|2021|year}}
+|[https://www.kantar.com/inspiration/politics/britons-back-vaccine-drive-as-economic-symptoms-worsen Kantar]
+|N/A
+|1,100
+|34%
+|style="background:#EEDDDD"|'''37%'''
+|29%
+|style="background:#EE6677;color:#FFFFFF;"|3%
+|-
+|{{opdrts|19|25|Jan|2021|year}}
+|[https://docs.cdn.yougov.com/n9d62zhic4/EUreferendum_Jan21_w.pdf YouGov]
+|''The Times''
+|3,312
+|style="background:#DDE0EE"|'''42%'''
+|40%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|2%
+|-
+|{{opdrts|18|19|Jan|2021|year}}
+|[https://docs.cdn.yougov.com/6lk5enmv39/Eurotrack_GB_Jan21.pdf YouGov]
+|Eurotrack
+|1,697
+|style="background:#DDE0EE"|'''42%'''
+|40%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|2%

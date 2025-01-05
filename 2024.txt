@@ -1,0 +1,810 @@
+|-
+|{{opdrts|6|8|Dec|2024|year}}
+|[https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Dec24.pdf YouGov]
+|''Eurotrack''
+|2,119
+|style="background:#DDE0EE"|'''45%'''
+|32%
+|23%
+|style="background:#4477AA;color:#FFFFFF;"|13%
+|-
+|{{opdrts|26|27|Nov|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-view-of-the-terminally-ill-adults-end-of-life-bill/ BMG Research]
+|''The i''
+|1,531
+|style="background:#DDE0EE"|'''44%'''
+|40%
+|17%
+|style="background:#4477AA;color:#FFFFFF;"|4%
+|-
+|{{opdrts|14|18|Nov|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint241122 Deltapoll]
+|''N/A''
+|1,749
+|style="background:#DDE0EE"|'''48%'''
+|35%
+|17%
+|style="background:#4477AA;color:#FFFFFF;"|13%
+|-
+|{{opdrts|30|31|Oct|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-view-of-the-labour-government-and-voting-intention-2/ BMG Research]
+|''The i''
+|1,511
+|style="background:#DDE0EE"|'''44%'''
+|38%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|6%
+|-
+|{{opdrts|18|20|Oct|2024|year}}
+|[https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Oct24.pdf YouGov]
+|''Eurotrack''
+|2,098
+|style="background:#DDE0EE"|'''47%'''
+|31%
+|22%
+|style="background:#4477AA;color:#FFFFFF;"|16%
+|-
+|{{opdrts|4|7|Oct|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint241007 Deltapoll]
+|''N/A''
+|2,108
+|style="background:#DDE0EE"|'''47%'''
+|38%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|9%
+|-
+|{{opdrts|2|3|Oct|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-view-of-the-labour-government-and-voting-intention/ BMG Research]
+|''The i''
+|1,562
+|style="background:#DDE0EE"|'''43%'''
+|39%
+|17%
+|style="background:#4477AA;color:#FFFFFF;"|4%
+|-
+|{{opdrts||29|Aug|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-the-labour-party-honeymoon-and-voting-intention/ BMG Research]
+|''The i''
+|1,560
+|style="background:#DDE0EE"|'''46%'''
+|37%
+|17%
+|style="background:#4477AA;color:#FFFFFF;"|9%
+|-
+|{{opdrts||19|Aug|2024|year}}
+|[https://redfieldandwiltonstrategies.com/joining-or-staying-out-of-the-eu-referendum-voting-intention-19-august-2024/ Redfield & Wilton Strategies]
+|''UK in a Changing Europe''
+|2,000
+|style="background:#DDE0EE"|'''51%'''
+|40%
+|8%
+|style="background:#4477AA;color:#FFFFFF;"|11%
+|-
+|{{opdrts|12|13|Aug|2024|year}}
+|[https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Aug24_lEbyhNM.pdf YouGov]
+|''Eurotrack''
+|2,189
+|style="background:#DDE0EE"|'''46%'''
+|33%
+|20%
+|style="background:#4477AA;color:#FFFFFF;"|13%
+|-
+|{{opdrts|7|8|Aug|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/np-2024-vi-wk3-97/ Omnisis]
+|''N/A''
+|1,278
+|style="background:#DDE0EE"|'''43%'''
+|32%
+|25%
+|style="background:#4477AA;color:#FFFFFF;"|11%
+|-
+|{{opdrts|5|7|Aug|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-conservative-party-leadership-and-voting-intention/ BMG Research]
+|''The i''
+|1,523
+|style="background:#DDE0EE"|'''44%'''
+|37%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|7%
+|-
+|{{opdrts|25|26|Jul|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/np-2024-vi-wk2-96/ Omnisis]
+|''N/A''
+|2,012
+|style="background:#DDE0EE"|'''39%'''
+|33%
+|28%
+|style="background:#4477AA;color:#FFFFFF;"|6%
+|-
+|{{opdrts|23|24|Jul|2024|year}}
+|[https://yougov.co.uk/politics/articles/50317-labour-does-not-have-a-mandate-to-take-britain-back-into-the-eu-says-public YouGov]
+|''N/A''
+|2,032
+|style="background:#DDE0EE"|'''48%'''
+|33%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|15%
+|-
+|{{opdrts|18|19|Jul|2024|year}}
+|[https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Jul24.pdf YouGov]
+|''Eurotrack''
+|2,074
+|style="background:#DDE0EE"|'''49%'''
+|32%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|17%
+|-
+|{{opdrts|11|12|Jul|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/np-2024-vi-wk1-95/ Omnisis]
+|''N/A''
+|2,005
+|style="background:#DDE0EE"|'''40%'''
+|35%
+|25%
+|style="background:#4477AA;color:#FFFFFF;"|5%
+|-
+|{{opdrts|2|3|Jul|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-94-results-3-7-2024/ Omnisis]
+|''N/A''
+|1,325
+|style="background:#DDE0EE"|'''47%'''
+|35%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|12%
+|-
+|{{opdrts|29|3|Jul|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240703 Deltapoll]
+|''N/A''
+|1,737
+|style="background:#DDE0EE"|'''49%'''
+|38%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|11%
+|-
+|{{opdrts|30|2|Jul|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-final-week-of-general-election-voting-intention/ BMG Research]
+|''The i''
+|1,854
+|style="background:#DDE0EE"|'''46%'''
+|37%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|9%
+|-
+|{{opdrts|27|29|Jun|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240629 Deltapoll]
+|''The Mail on Sunday''
+|1,645
+|style="background:#DDE0EE"|'''47%'''
+|39%
+|13%
+|style="background:#4477AA;color:#FFFFFF;"|8%
+|-
+|{{opdrts|27|28|Jun|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-93-results-28-6-2024/ Omnisis]
+|''N/A''
+|1,210
+|style="background:#DDE0EE"|'''47%'''
+|34%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|13%
+|-
+|{{opdrts|24|26|Jun|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240628 Deltapoll]
+|''The National''
+|2,077
+|style="background:#DDE0EE"|'''46%'''
+|37%
+|16%
+|style="background:#4477AA;color:#FFFFFF;"|9%
+|-
+|{{opdrts|24|26|Jun|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-week-5-of-general-election-voting-intention/ BMG Research]
+|''The i''
+|1,522
+|style="background:#DDE0EE"|'''47%'''
+|38%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|9%
+|-
+|{{opdrts|21|24|Jun|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240624 Deltapoll]
+|''N/A''
+|1,568
+|style="background:#DDE0EE"|'''50%'''
+|35%
+|16%
+|style="background:#4477AA;color:#FFFFFF;"|15%
+|-
+|{{opdrts|20|21|Jun|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-92-results-21-6-2024/ Omnisis]
+|''N/A''
+|1,270
+|style="background:#DDE0EE"|'''50%'''
+|31%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|19%
+|-
+|{{opdrts|18|19|Jun|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-week-4-of-general-election-voting-intention/ BMG Research]
+|''The i''
+|1,627
+|style="background:#DDE0EE"|'''47%'''
+|38%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|9%
+|-
+|{{opdrts|14|17|Jun|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240617 Deltapoll]
+|''N/A''
+|1,383
+|style="background:#DDE0EE"|'''45%'''
+|41%
+|13%
+|style="background:#4477AA;color:#FFFFFF;"|4%
+|-
+|{{opdrts|13|14|Jun|2024|year}}
+|[https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Jun24.pdf YouGov]
+|''Eurotrack''
+|2,292
+|style="background:#DDE0EE"|'''48%'''
+|33%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|15%
+|-
+|{{opdrts|12|13|Jun|2024|year}}
+|[https://redfieldandwiltonstrategies.com/joining-or-staying-out-of-the-eu-referendum-voting-intention-12-13-june-2024/ Redfield & Wilton Strategies]
+|''UK in a Changing Europe''
+|2,000
+|style="background:#DDE0EE"|'''55%'''
+|35%
+|10%
+|style="background:#4477AA;color:#FFFFFF;"|20%
+|-
+|{{opdrts|12|13|Jun|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-91-results-13-6-2024/ Omnisis]
+|''N/A''
+|1,297
+|style="background:#DDE0EE"|'''49%'''
+|33%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|16%
+|-
+|{{opdrts|11|12|Jun|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-week-3-of-general-election-voting-intention/ BMG Research]
+|''The i''
+|1,546
+|style="background:#DDE0EE"|'''47%'''
+|39%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|8%
+|-
+|{{opdrts|6|8|Jun|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240608 Deltapoll]
+|''Mail on Sunday''
+|2,010
+|style="background:#DDE0EE"|'''50%'''
+|35%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|15%
+|-
+|{{opdrts|6|7|Jun|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-90-results-7-6-2024/ Omnisis]
+|''N/A''
+|1,198
+|style="background:#DDE0EE"|'''50%'''
+|31%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|19%
+|-
+|{{opdrts|4|5|Jun|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-week-2-of-general-election-voting-intention/ BMG Research]
+|''The i''
+|1,534
+|style="background:#DDE0EE"|'''45%'''
+|38%
+|17%
+|style="background:#4477AA;color:#FFFFFF;"|7%
+|-
+|{{opdrts|31|3|Jun|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240603 Deltapoll]
+|''N/A''
+|1,077
+|style="background:#DDE0EE"|'''51%'''
+|34%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|17%
+|-
+|{{opdrts|30|3|Jun|2024|year}}
+|[https://www.veriangroup.com/press-release/uk-polling-5-june-2024 Verian]
+|''N/A''
+|1,405
+|style="background:#DDE0EE"|'''56%'''
+|28%
+|17%
+|style="background:#4477AA;color:#FFFFFF;"|28%
+|-
+|{{opdrts|30|31|May|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-89-results-31-5-2024/ Omnisis]
+|''N/A''
+|1,328
+|style="background:#DDE0EE"|'''47%'''
+|34%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|13%
+|-
+|{{opdrts|28|29|May|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-week-1-of-general-election-voting-intention/ BMG Research]
+|''The i''
+|1,500
+|style="background:#DDE0EE"|'''44%'''
+|41%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|3%
+|-
+|{{opdrts|23|25|May|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240526 Deltapoll]
+|''Mail on Sunday''
+|1,517
+|style="background:#DDE0EE"|'''51%'''
+|35%
+|13%
+|style="background:#4477AA;color:#FFFFFF;"|16%
+|-
+|{{opdrts|23|24|May|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-88-results-24-5-2024/ Omnisis]
+|''N/A''
+|1,242
+|style="background:#DDE0EE"|'''48%'''
+|31%
+|21%
+|style="background:#4477AA;color:#FFFFFF;"|17%
+|-
+|{{opdrts|17|20|May|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240520 Deltapoll]
+|''N/A''
+|1,968
+|style="background:#DDE0EE"|'''49%'''
+|36%
+|16%
+|style="background:#4477AA;color:#FFFFFF;"|13%
+|-
+|{{opdrts|16|17|May|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-87-results-17-5-2024/ Omnisis]
+|''N/A''
+|1,064
+|style="background:#DDE0EE"|'''49%'''
+|31%
+|20%
+|style="background:#4477AA;color:#FFFFFF;"|18%
+|-
+|{{opdrts|10|13|May|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240513 Deltapoll]
+|''N/A''
+|1,031
+|style="background:#DDE0EE"|'''45%'''
+|36%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|9%
+|-
+|{{opdrts|9|10|May|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-86-results-10-5-2024/ Omnisis]
+|''N/A''
+|1,183
+|style="background:#DDE0EE"|'''48%'''
+|32%
+|20%
+|style="background:#4477AA;color:#FFFFFF;"|16%
+|-
+|{{opdrts|3|7|May|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240507 Deltapoll]
+|''N/A''
+|1,993
+|style="background:#DDE0EE"|'''48%'''
+|38%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|10%
+|-
+|{{opdrts|2|5|May|2024|year}}
+|[https://static1.squarespace.com/static/5db0ca668552dd5ab1168a91/t/663c82fd03bf9d3f6b5746f1/1715241726681/The+Rest+is+Politics+W2.xlsx JL Partners]
+|''The Rest is Politics''
+|2,001
+|style="background:#DDE0EE"|'''47%'''
+|36%
+|16%
+|style="background:#4477AA;color:#FFFFFF;"|11%
+|-
+|{{opdrts|2|3|May|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-85-results-3-5-20245/ Omnisis]
+|''N/A''
+|1,177
+|style="background:#DDE0EE"|'''46%'''
+|33%
+|21%
+|style="background:#4477AA;color:#FFFFFF;"|13%
+|-
+|{{opdrts|26|29|Apr|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240429 Deltapoll]
+|''N/A''
+|1,577
+|style="background:#DDE0EE"|'''47%'''
+|36%
+|17%
+|style="background:#4477AA;color:#FFFFFF;"|11%
+|-
+|{{opdrts|25|26|Apr|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-84-results-26-3-2024/ Omnisis]
+|''N/A''
+|1,265
+|style="background:#DDE0EE"|'''48%'''
+|31%
+|21%
+|style="background:#4477AA;color:#FFFFFF;"|17%
+|-
+|{{opdrts|22|23|Apr|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-tory-leadership-and-voting-intention/ BMG Research]
+|''The i''
+|1,500
+|style="background:#DDE0EE"|'''47%'''
+|39%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|8%
+|-
+|{{opdrts|19|22|Apr|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240422 Deltapoll]
+|''N/A''
+|1,525
+|style="background:#DDE0EE"|'''49%'''
+|35%
+|16%
+|style="background:#4477AA;color:#FFFFFF;"|14%
+|-
+|{{opdrts|18|19|Apr|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-83-results-19-3-2024/ Omnisis]
+|''N/A''
+|1,266
+|style="background:#DDE0EE"|'''48%'''
+|33%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|15%
+|-
+|{{opdrts|17|18|Apr|2024|year}}
+|[https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Apr24.pdf YouGov]
+|''Eurotrack''
+|2,147
+|style="background:#DDE0EE"|'''49%'''
+|32%
+|20%
+|style="background:#4477AA;color:#FFFFFF;"|17%
+|-
+|{{opdrts|16|17|Apr|2024|year}}
+|[https://redfieldandwiltonstrategies.com/joining-or-staying-out-of-the-eu-referendum-voting-intention-16-17-april-2024/ Redfield & Wilton Strategies]
+|''UK in a Changing Europe''
+|2,000
+|style="background:#DDE0EE"|'''55%'''
+|38%
+|8%
+|style="background:#4477AA;color:#FFFFFF;"|17%
+|-
+|{{opdrts|12|15|Apr|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240415 Deltapoll]
+|''N/A''
+|1,944
+|style="background:#DDE0EE"|'''51%'''
+|35%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|16%
+|-
+|{{opdrts|11|12|Apr|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-82-results-12-3-2024/ Omnisis]
+|''N/A''
+|1,271
+|style="background:#DDE0EE"|'''50%'''
+|31%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|19%
+|-
+|{{opdrts|4|7|Apr|2024|year}}
+|[https://static1.squarespace.com/static/5db0ca668552dd5ab1168a91/t/66164257752c232fe45ab616/1712734808468/Wave%2B1%2BThe%2BRest%2Bis%2BPolitics%2Btables.xlsx JL Partners]
+|''The Rest is Politics''
+|2,011
+|style="background:#DDE0EE"|'''48%'''
+|36%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|12%
+|-
+|{{opdrts|4|5|Apr|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-81-results-5-3-2024/ Omnisis]
+|''N/A''
+|1,280
+|style="background:#DDE0EE"|'''49%'''
+|32%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|17%
+|-
+|{{opdrts|2|3|Apr|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-policy-clarity-and-voting-intention/ BMG Research]
+|''The i''
+|1,530
+|style="background:#DDE0EE"|'''46%'''
+|40%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|6%
+|-
+|{{opdrts|27|28|Mar|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-80-results-28-3-2024/ Omnisis]
+|''N/A''
+|1,285
+|style="background:#DDE0EE"|'''48%'''
+|32%
+|20%
+|style="background:#4477AA;color:#FFFFFF;"|16%
+|-
+|{{opdrts|22|25|Mar|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240318 Deltapoll]
+|''N/A''
+|1,589
+|style="background:#DDE0EE"|'''47%'''
+|37%
+|16%
+|style="background:#4477AA;color:#FFFFFF;"|10%
+|-
+|{{opdrts|21|22|Mar|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-79-results-22-3-2024/ Omnisis]
+|''N/A''
+|1,270
+|style="background:#DDE0EE"|'''48%'''
+|32%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|16%
+|-
+|{{opdrts|15|18|Mar|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240318 Deltapoll]
+|''N/A''
+|2,072
+|style="background:#DDE0EE"|'''49%'''
+|36%
+|16%
+|style="background:#4477AA;color:#FFFFFF;"|13%
+|-
+|{{opdrts|14|15|Mar|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-78-results-15-3-2024/ Omnisis]
+|''N/A''
+|1,270
+|style="background:#DDE0EE"|'''49%'''
+|34%
+|17%
+|style="background:#4477AA;color:#FFFFFF;"|15%
+|-
+|{{opdrts|12|13|Mar|2024|year}}
+|[https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Mar24.pdf YouGov]
+|''Eurotrack''
+|2,047
+|style="background:#DDE0EE"|'''49%'''
+|30%
+|21%
+|style="background:#4477AA;color:#FFFFFF;"|19%
+|-
+|{{opdrts|8|11|Mar|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240311 Deltapoll]
+|''N/A''
+|1,502
+|style="background:#DDE0EE"|'''47%'''
+|40%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|7%
+|-
+|{{opdrts|7|8|Mar|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-77-results-1-3-2024/ Omnisis]
+|''N/A''
+|1,216
+|style="background:#DDE0EE"|'''46%'''
+|34%
+|20%
+|style="background:#4477AA;color:#FFFFFF;"|12%
+|-
+|{{opdrts|6|7|Mar|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-the-budget-and-voting-intention/ BMG Research]
+|''The i''
+|1,541
+|style="background:#DDE0EE"|'''45%'''
+|41%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|4%
+|-
+|{{opdrts|1|4|Mar|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240304 Deltapoll]
+|''N/A''
+|1,500
+|style="background:#DDE0EE"|'''46%'''
+|39%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|7%
+|-
+|{{opdrts|29|1|Mar|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-76-results-1-3-2024/ Omnisis]
+|''N/A''
+|1,240
+|style="background:#DDE0EE"|'''50%'''
+|33%
+|17%
+|style="background:#4477AA;color:#FFFFFF;"|17%
+|-
+|{{opdrts|23|26|Feb|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240226 Deltapoll]
+|''N/A''
+|1,490
+|style="background:#DDE0EE"|'''49%'''
+|36%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|13%
+|-
+|{{opdrts|22|23|Feb|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-75-results-23-2-2024/ Omnisis]
+|''N/A''
+|1,243
+|style="background:#DDE0EE"|'''50%'''
+|31%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|19%
+|-
+|{{opdrts|16|19|Feb|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240219 Deltapoll]
+|''N/A''
+|1,519
+|style="background:#DDE0EE"|'''45%'''
+|38%
+|16%
+|style="background:#4477AA;color:#FFFFFF;"|7%
+|-
+|{{opdrts|15|16|Feb|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-74-results-16-2-2024/ Omnisis]
+|''N/A''
+|1,246
+|style="background:#DDE0EE"|'''47%'''
+|33%
+|20%
+|style="background:#4477AA;color:#FFFFFF;"|14%
+|-
+|{{opdrts|15|16|Feb|2024|year}}
+|[https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Feb24_W.pdf YouGov]
+|Eurotrack
+|2,186
+|style="background:#DDE0EE"|'''47%'''
+|32%
+|21%
+|style="background:#4477AA;color:#FFFFFF;"|15%
+|-
+|{{opdrts|13|14|Feb|2024|year}}
+|[https://redfieldandwiltonstrategies.com/joining-or-staying-out-of-the-eu-referendum-voting-intention-13-14-february-2024/ Redfield & Wilton Strategies]
+|''UK in a Changing Europe''
+|2,000
+|style="background:#DDE0EE"|'''55%'''
+|36%
+|8%
+|style="background:#4477AA;color:#FFFFFF;"|19%
+|-
+|{{opdrts|9|12|Feb|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240212 Deltapoll]
+|''N/A''
+|1,977
+|style="background:#DDE0EE"|'''46%'''
+|39%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|7%
+|-
+|{{opdrts|8|9|Feb|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-73-results-9-2-2024/ Omnisis]
+|''N/A''
+|1,171
+|style="background:#DDE0EE"|'''50%'''
+|31%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|19%
+|-
+|{{opdrts|2|5|Feb|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240205 Deltapoll]
+|''N/A''
+|2,004
+|style="background:#DDE0EE"|'''47%'''
+|37%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|10%
+|-
+|{{opdrts|1|2|Feb|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-72-results-2-2-2024/ Omnisis]
+|''N/A''
+|1,283
+|style="background:#DDE0EE"|'''52%'''
+|31%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|21%
+|-
+|{{opdrts|30|31|Jan|2024|year}}
+|[https://www.bmgresearch.co.uk/bmg-the-i-poll-rishi-sunak-less-popular-than-liz-truss-when-she-was-pm/ BMG Research]
+|''The i''
+|1,505
+|style="background:#DDE0EE"|'''46%'''
+|41%
+|13%
+|style="background:#4477AA;color:#FFFFFF;"|5%
+|-
+|{{opdrts|26|29|Jan|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240129 Deltapoll]
+|''N/A''
+|2,064
+|style="background:#DDE0EE"|'''47%'''
+|38%
+|14%
+|style="background:#4477AA;color:#FFFFFF;"|9%
+|-
+|{{opdrts|25|26|Jan|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-71-results-26-1-2024/ Omnisis]
+|''N/A''
+|1,264
+|style="background:#DDE0EE"|'''50%'''
+|33%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|17%
+|-
+|{{opdrts|19|22|Jan|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240122 Deltapoll]
+|''N/A''
+|2,176
+|style="background:#DDE0EE"|'''47%'''
+|37%
+|16%
+|style="background:#4477AA;color:#FFFFFF;"|10%
+|-
+|{{opdrts|18|19|Jan|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-70-results-19-1-2024/ Omnisis]
+|''N/A''
+|1,163
+|style="background:#DDE0EE"|'''50%'''
+|31%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|19%
+|-
+|{{opdrts|12|15|Jan|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint240115 Deltapoll]
+|''N/A''
+|2,136
+|style="background:#DDE0EE"|'''46%'''
+|38%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|8%
+|-
+|{{opdrts|11|12|Jan|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-69-results-12-1-2024/ Omnisis]
+|''N/A''
+|1,161
+|style="background:#DDE0EE"|'''50%'''
+|33%
+|17%
+|style="background:#4477AA;color:#FFFFFF;"|17%
+|-
+|{{opdrts|11|12|Jan|2024|year}}
+|[https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Jan24_W.pdf YouGov]
+|''Eurotrack''
+|2,058
+|style="background:#DDE0EE"|'''47%'''
+|31%
+|22%
+|style="background:#4477AA;color:#FFFFFF;"|16%
+|-
+|{{opdrts|4|5|Jan|2024|year}}
+|[https://www.omnisis.co.uk/poll-results/vi-68-results-5-1-2024/ Omnisis]
+|''N/A''
+|1,226
+|style="background:#DDE0EE"|'''48%'''
+|32%
+|20%
+|style="background:#4477AA;color:#FFFFFF;"|16%
+|-
+|{{opdrts|2|3|Jan|2024|year}}
+|[https://yougov.co.uk/politics/articles/48260-four-years-after-brexit-what-future-forms-of-relationship-with-the-eu-would-britons-support YouGov]
+|''N/A''
+|2,016
+|style="background:#DDE0EE"|'''51%'''
+|36%
+|13%
+|style="background:#4477AA;color:#FFFFFF;"|15%
