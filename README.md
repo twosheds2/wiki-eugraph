@@ -1,6 +1,8 @@
 # Overview
 This repository contains code to generate the graph on the Wikipedia page [Potential re-accession of the United Kingdom to the European Union](https://en.wikipedia.org/wiki/Potential_re-accession_of_the_United_Kingdom_to_the_European_Union)
 
+![Graph of opinion poll results on the subject of whether the United Kingdom should rejoin the European Union, with LOESS curves](https://upload.wikimedia.org/wikipedia/commons/e/e8/Opinion_polling_on_the_whether_the_United_Kingdom_should_rejoin_the_European_Union.svg)
+
 # Acknowledments
 The graph has been created and regularly updated since 2022 by [User:Ralbegen](https://en.wikipedia.org/wiki/User:Ralbegen) and [their code](https://en.wikipedia.org/wiki/User:Ralbegen/Opinion_poll_code) slightly influenced aspects of what is in this repository. The new graph is itended to be identical to their graph.
 
