@@ -17,7 +17,7 @@
 # start_date,end_date,pollster_link,pollster_name,client,samplesize,rejoin,stay_out,neither
 
 # Read data from these files
-datafiles = ["2020.txt", "2021.txt", "2022.txt", "2023.txt", "2024.txt"]
+datafiles = ["2020.txt", "2021.txt", "2022.txt", "2023.txt", "2024.txt", "2025.txt"]
 
 # Imports
 import datetime
