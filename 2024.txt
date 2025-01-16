@@ -1,4 +1,13 @@
 |-
+|{{opdrts|19|23|Dec|2024|year}}
+|[https://deltapoll.co.uk/polls/voteint241223 Deltapoll]
+|''The Mirror''
+|1,552
+|style="background:#DDE0EE"|'''45%'''
+|38%
+|16%
+|style="background:#4477AA;color:#FFFFFF;"|7%
+|-
 |{{opdrts|6|8|Dec|2024|year}}
 |[https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Dec24.pdf YouGov]
 |''Eurotrack''
