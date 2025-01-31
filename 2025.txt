@@ -1,4 +1,13 @@
 |-
+|{{opdrts|20|21|Jan|2025|year}}
+|[https://d3nkl3psvxxpe9.cloudfront.net/documents/Internal_Brexit_250121.pdf YouGov]
+|N/A
+|2,225
+|style="background:#DDE0EE"|'''51%'''
+|31%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|20%
+|-
 |{{opdrts|30|3|Jan|2025|year}}
 |[https://deltapoll.co.uk/polls/mailonsunday-250106 Deltapoll]
 |''Mail on Sunday''
