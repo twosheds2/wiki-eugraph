@@ -1,4 +1,13 @@
 |-
+|{{opdrts|28|29|Jan|2025|year}}
+|[https://bmgresearch.com/news/bmg-and-the-i-poll-the-uk-and-eu/ BMG Research]
+|''The i''
+|1,514
+|style="background:#DDE0EE"|'''45%'''
+|37%
+|18%
+|style="background:#4477AA;color:#FFFFFF;"|8%
+|-
 |{{opdrts|20|21|Jan|2025|year}}
 |[https://d3nkl3psvxxpe9.cloudfront.net/documents/Internal_Brexit_250121.pdf YouGov]
 |N/A
@@ -7,6 +16,15 @@
 |31%
 |19%
 |style="background:#4477AA;color:#FFFFFF;"|20%
+|-
+|{{opdrts|12|13|Jan|2025|year}}
+|[https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Jan25_w.pdf YouGov]
+|''Eurotrack''
+|2,283
+|style="background:#DDE0EE"|'''48%'''
+|33%
+|20%
+|style="background:#4477AA;color:#FFFFFF;"|15%
 |-
 |{{opdrts|30|3|Jan|2025|year}}
 |[https://deltapoll.co.uk/polls/mailonsunday-250106 Deltapoll]
