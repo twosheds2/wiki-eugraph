@@ -56,9 +56,9 @@ ggplot(long_data, aes(x = end_date, y = value, color = category)) +
                          limits = c(-.01, 0.6 + .01),           # Set max 60% on graph
                          expand = c(0, 0)) +
      scale_x_date(date_labels = "%b %Y",
-                    breaks = seq(from = ymd("2020-01-01"), to = ymd("2025-07-01"), by = "6 months"),    # Y axis breaks - update if changing limits below
+                    breaks = seq(from = ymd("2020-01-01"), to = ymd("2025-10-01"), by = "6 months"),    # Y axis breaks - update if changing limits below
                     date_minor_breaks = "1 month",
-                    limits = c(ymd("2019-12-01"), ymd("2025-08-01")),  # Sets the date range on the X axis
+                    limits = c(ymd("2019-12-01"), ymd("2025-11-01")),  # Sets the date range on the X axis
                                                                        # Change second date to around 6 months in future when re-running
                     expand = c(0, 0)) +
      geom_label_repel(data = labelInfo,

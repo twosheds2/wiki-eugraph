@@ -185,8 +185,8 @@
 72,2023-12-29,2023-12-31,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Dec23_W.pdf,YouGov,Eurotrack,2194,0.46,0.31,0.23
 274,2024-01-02,2024-01-03,https://yougov.co.uk/politics/articles/48260-four-years-after-brexit-what-future-forms-of-relationship-with-the-eu-would-britons-support,YouGov,N/A,2016,0.51,0.36,0.13
 273,2024-01-04,2024-01-05,https://www.omnisis.co.uk/poll-results/vi-68-results-5-1-2024/,Omnisis,N/A,1226,0.48,0.32,0.2
-272,2024-01-11,2024-01-12,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Jan24_W.pdf,YouGov,Eurotrack,2058,0.47,0.31,0.22
 271,2024-01-11,2024-01-12,https://www.omnisis.co.uk/poll-results/vi-69-results-12-1-2024/,Omnisis,N/A,1161,0.5,0.33,0.17
+272,2024-01-11,2024-01-12,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Jan24_W.pdf,YouGov,Eurotrack,2058,0.47,0.31,0.22
 270,2024-01-12,2024-01-15,https://deltapoll.co.uk/polls/voteint240115,Deltapoll,N/A,2136,0.46,0.38,0.15
 269,2024-01-18,2024-01-19,https://www.omnisis.co.uk/poll-results/vi-70-results-19-1-2024/,Omnisis,N/A,1163,0.5,0.31,0.19
 268,2024-01-19,2024-01-22,https://deltapoll.co.uk/polls/voteint240122,Deltapoll,N/A,2176,0.47,0.37,0.16
@@ -274,7 +274,11 @@
 186,2024-11-26,2024-11-27,https://www.bmgresearch.co.uk/bmg-the-i-poll-view-of-the-terminally-ill-adults-end-of-life-bill/,BMG Research,The i,1531,0.44,0.4,0.17
 185,2024-12-06,2024-12-08,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Dec24.pdf,YouGov,Eurotrack,2119,0.45,0.32,0.23
 184,2024-12-19,2024-12-23,https://deltapoll.co.uk/polls/voteint241223,Deltapoll,The Mirror,1552,0.45,0.38,0.16
-278,2024-12-30,2025-01-03,https://deltapoll.co.uk/polls/mailonsunday-250106,Deltapoll,Mail on Sunday,1532,0.48,0.36,0.16
-277,2025-01-12,2025-01-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Jan25_w.pdf,YouGov,Eurotrack,2283,0.48,0.33,0.2
-276,2025-01-20,2025-01-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/Internal_Brexit_250121.pdf,YouGov,N/A,2225,0.51,0.31,0.19
-275,2025-01-28,2025-01-29,https://bmgresearch.com/news/bmg-and-the-i-poll-the-uk-and-eu/,BMG Research,The i,1514,0.45,0.37,0.18
+282,2024-12-30,2025-01-03,https://deltapoll.co.uk/polls/mailonsunday-250106,Deltapoll,Mail on Sunday,1532,0.48,0.36,0.16
+281,2025-01-12,2025-01-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Jan25_w.pdf,YouGov,Eurotrack,2283,0.48,0.33,0.2
+280,2025-01-20,2025-01-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/Internal_Brexit_250121.pdf,YouGov,N/A,2225,0.51,0.31,0.19
+279,2025-01-28,2025-01-29,https://bmgresearch.com/news/bmg-and-the-i-poll-the-uk-and-eu/,BMG Research,The i,1514,0.45,0.37,0.18
+278,2025-02-05,2025-02-06,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Feb25_Zy6Rw4I.pdf,YouGov,Eurotrack,2117,0.48,0.32,0.19
+277,2025-02-25,2025-02-26,https://bmgresearch.com/news/british-public-attitudes-to-support-for-ukraine/,BMG Research,The i,1586,0.45,0.4,0.15
+276,2025-03-14,2025-03-17,https://deltapoll.co.uk/polls/voteint250318,Deltapoll,N/A,1974,0.49,0.35,0.15
+275,2025-03-26,2025-03-27,https://bmgresearch.com/news/bmg-and-the-i-polling-on-the-spring-statement/,BMG Research,The i,1544,0.45,0.38,0.17

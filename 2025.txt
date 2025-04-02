@@ -1,4 +1,40 @@
 |-
+|{{opdrts|26|27|Mar|2025|year}}
+|[https://bmgresearch.com/news/bmg-and-the-i-polling-on-the-spring-statement/ BMG Research]
+|''The i''
+|1,544
+|style="background:#DDE0EE"|'''45%'''
+|38%
+|17%
+|style="background:#4477AA;color:#FFFFFF;"|7%
+|-
+|{{opdrts|14|17|Mar|2025|year}}
+|[https://deltapoll.co.uk/polls/voteint250318 Deltapoll]
+|''N/A''
+|1,974
+|style="background:#DDE0EE"|'''49%'''
+|35%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|14%
+|-
+|{{opdrts|25|26|Feb|2025|year}}
+|[https://bmgresearch.com/news/british-public-attitudes-to-support-for-ukraine/ BMG Research]
+|''The i''
+|1,586
+|style="background:#DDE0EE"|'''45%'''
+|40%
+|15%
+|style="background:#4477AA;color:#FFFFFF;"|5%
+|-
+|{{opdrts|5|6|Feb|2025|year}}
+|[https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Feb25_Zy6Rw4I.pdf YouGov]
+|''Eurotrack''
+|2,117
+|style="background:#DDE0EE"|'''48%'''
+|32%
+|19%
+|style="background:#4477AA;color:#FFFFFF;"|16%
+|-
 |{{opdrts|28|29|Jan|2025|year}}
 |[https://bmgresearch.com/news/bmg-and-the-i-poll-the-uk-and-eu/ BMG Research]
 |''The i''
