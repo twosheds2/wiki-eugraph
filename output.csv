@@ -80,10 +80,10 @@
 177,2023-02-09,2023-02-10,https://www.omnisis.co.uk/poll-results/vi-21-results-10-02-2023/,Omnisis,N/A,1234,0.45,0.32,0.23
 176,2023-02-11,2023-02-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Feb23.pdf,YouGov,Eurotrack,2062,0.48,0.32,0.2
 175,2023-02-15,2023-02-16,https://www.omnisis.co.uk/poll-results/vi-22-results-17-02-2023/,Omnisis,N/A,1204,0.49,0.33,0.18
-174,2023-02-17,2023-02-20,https://deltapoll.co.uk/wp-content/uploads/2023/02/Deltapoll-230220_trackers_1.pdf,Deltapoll,N/A,1079,0.5,0.38,0.12
 173,2023-02-20,2023-02-20,https://redfieldandwiltonstrategies.com/joining-or-staying-out-of-the-eu-referendum-voting-intention-20-february-2023/,Redfield & Wilton Strategies,UK in a Changing Europe,2000,0.56,0.36,0.08
-171,2023-02-22,2023-02-23,https://www.omnisis.co.uk/poll-results/vi-23-results-24-02-2023/,Omnisis,N/A,1248,0.43,0.35,0.21
+174,2023-02-17,2023-02-20,https://deltapoll.co.uk/wp-content/uploads/2023/02/Deltapoll-230220_trackers_1.pdf,Deltapoll,N/A,1079,0.5,0.38,0.12
 172,2023-02-21,2023-02-23,https://www.bmgresearch.co.uk/bmg-the-i-polling-3/,BMG Research,The i,1500,0.45,0.41,0.14
+171,2023-02-22,2023-02-23,https://www.omnisis.co.uk/poll-results/vi-23-results-24-02-2023/,Omnisis,N/A,1248,0.43,0.35,0.21
 170,2023-02-24,2023-02-27,https://deltapoll.co.uk/wp-content/uploads/2023/02/Deltapoll-230227_trackers.pdf,Deltapoll,N/A,1060,0.48,0.38,0.13
 169,2023-03-01,2023-03-02,https://www.omnisis.co.uk/media/1234/vi-024-tabs-03-3-2023.xlsx,Omnisis,N/A,1284,0.47,0.32,0.22
 168,2023-03-02,2023-03-06,https://deltapoll.co.uk/wp-content/uploads/2023/03/Deltapoll-230307_trackers.pdf,Deltapoll,N/A,1063,0.51,0.37,0.12
@@ -119,8 +119,8 @@
 138,2023-06-01,2023-06-02,https://www.omnisis.co.uk/poll-results/vi-37-results-02-06-2023/,Omnisis,N/A,1351,0.49,0.31,0.2
 137,2023-06-08,2023-06-09,https://www.omnisis.co.uk/poll-results/vi-38-results-09-06-2023/,Omnisis,N/A,1296,0.47,0.32,0.2
 136,2023-06-15,2023-06-16,https://www.omnisis.co.uk/poll-results/vi-39-results-16-06-2023/,Omnisis,N/A,1306,0.47,0.31,0.21
-135,2023-06-16,2023-06-19,https://deltapoll.co.uk/polls/voteint230619-2-2/,Deltapoll,N/A,1554,0.47,0.37,0.15
 134,2023-06-17,2023-06-19,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Jun23.pdf,YouGov,Eurotrack,1961,0.45,0.32,0.23
+135,2023-06-16,2023-06-19,https://deltapoll.co.uk/polls/voteint230619-2-2/,Deltapoll,N/A,1554,0.47,0.37,0.15
 133,2023-06-22,2023-06-23,https://twitter.com/Omnisis/status/1672258237238767619,Omnisis,N/A,1336,0.5,0.31,0.2
 132,2023-06-25,2023-06-26,https://www.bmgresearch.co.uk/bmg-the-i-polling-aug23/,BMG Research,The i,1524,0.46,0.39,0.15
 131,2023-06-27,2023-06-29,https://www.bmgresearch.co.uk/bmg-the-i-polling-july-2023/,BMG Research,The i,1500,0.45,0.4,0.15
@@ -154,8 +154,8 @@
 103,2023-10-04,2023-10-05,https://www.bmgresearch.co.uk/bmg-the-i-polling-early-october-voting-intention-and-conservative-party-conference/,BMG Research,The i,1502,0.44,0.4,0.16
 102,2023-10-05,2023-10-06,https://deltapoll.co.uk/polls/voteint231006,Deltapoll,N/A,1517,0.46,0.39,0.14
 101,2023-10-05,2023-10-06,https://www.omnisis.co.uk/poll-results/vi-55-results-6-10-2023/,Omnisis,N/A,1261,0.46,0.33,0.21
-100,2023-10-11,2023-10-12,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Oct23_W.pdf,YouGov,Eurotrack,2067,0.47,0.34,0.19
 99,2023-10-11,2023-10-12,https://www.bmgresearch.co.uk/bmg-the-i-poll-more-see-labour-as-united-party-after-conference/,BMG Research,The i,1591,0.44,0.41,0.16
+100,2023-10-11,2023-10-12,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Oct23_W.pdf,YouGov,Eurotrack,2067,0.47,0.34,0.19
 98,2023-10-12,2023-10-13,https://www.omnisis.co.uk/poll-results/vi-56-results-13-10-2023/,Omnisis,N/A,1198,0.52,0.3,0.18
 97,2023-10-13,2023-10-16,https://deltapoll.co.uk/polls/voteint231016,Deltapoll,N/A,1568,0.46,0.37,0.17
 96,2023-10-19,2023-10-20,https://deltapoll.co.uk/polls/voteint231016-2,Deltapoll,N/A,1036,0.49,0.39,0.11
@@ -255,8 +255,8 @@
 205,2024-06-27,2024-06-28,https://www.omnisis.co.uk/poll-results/vi-93-results-28-6-2024/,Omnisis,N/A,1210,0.47,0.34,0.19
 204,2024-06-27,2024-06-29,https://deltapoll.co.uk/polls/voteint240629,Deltapoll,The Mail on Sunday,1645,0.47,0.39,0.13
 203,2024-06-30,2024-07-02,https://www.bmgresearch.co.uk/bmg-the-i-poll-final-week-of-general-election-voting-intention/,BMG Research,The i,1854,0.46,0.37,0.18
-202,2024-06-29,2024-07-03,https://deltapoll.co.uk/polls/voteint240703,Deltapoll,N/A,1737,0.49,0.38,0.14
 201,2024-07-02,2024-07-03,https://www.omnisis.co.uk/poll-results/vi-94-results-3-7-2024/,Omnisis,N/A,1325,0.47,0.35,0.18
+202,2024-06-29,2024-07-03,https://deltapoll.co.uk/polls/voteint240703,Deltapoll,N/A,1737,0.49,0.38,0.14
 200,2024-07-11,2024-07-12,https://www.omnisis.co.uk/poll-results/np-2024-vi-wk1-95/,Omnisis,N/A,2005,0.4,0.35,0.25
 199,2024-07-18,2024-07-19,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Jul24.pdf,YouGov,Eurotrack,2074,0.49,0.32,0.18
 198,2024-07-23,2024-07-24,https://yougov.co.uk/politics/articles/50317-labour-does-not-have-a-mandate-to-take-britain-back-into-the-eu-says-public,YouGov,N/A,2032,0.48,0.33,0.19
@@ -274,11 +274,19 @@
 186,2024-11-26,2024-11-27,https://www.bmgresearch.co.uk/bmg-the-i-poll-view-of-the-terminally-ill-adults-end-of-life-bill/,BMG Research,The i,1531,0.44,0.4,0.17
 185,2024-12-06,2024-12-08,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Dec24.pdf,YouGov,Eurotrack,2119,0.45,0.32,0.23
 184,2024-12-19,2024-12-23,https://deltapoll.co.uk/polls/voteint241223,Deltapoll,The Mirror,1552,0.45,0.38,0.16
-282,2024-12-30,2025-01-03,https://deltapoll.co.uk/polls/mailonsunday-250106,Deltapoll,Mail on Sunday,1532,0.48,0.36,0.16
-281,2025-01-12,2025-01-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Jan25_w.pdf,YouGov,Eurotrack,2283,0.48,0.33,0.2
-280,2025-01-20,2025-01-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/Internal_Brexit_250121.pdf,YouGov,N/A,2225,0.51,0.31,0.19
-279,2025-01-28,2025-01-29,https://bmgresearch.com/news/bmg-and-the-i-poll-the-uk-and-eu/,BMG Research,The i,1514,0.45,0.37,0.18
-278,2025-02-05,2025-02-06,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Feb25_Zy6Rw4I.pdf,YouGov,Eurotrack,2117,0.48,0.32,0.19
-277,2025-02-25,2025-02-26,https://bmgresearch.com/news/british-public-attitudes-to-support-for-ukraine/,BMG Research,The i,1586,0.45,0.4,0.15
-276,2025-03-14,2025-03-17,https://deltapoll.co.uk/polls/voteint250318,Deltapoll,N/A,1974,0.49,0.35,0.15
-275,2025-03-26,2025-03-27,https://bmgresearch.com/news/bmg-and-the-i-polling-on-the-spring-statement/,BMG Research,The i,1544,0.45,0.38,0.17
+290,2024-12-30,2025-01-03,https://deltapoll.co.uk/polls/mailonsunday-250106,Deltapoll,Mail on Sunday,1532,0.48,0.36,0.16
+289,2025-01-12,2025-01-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Jan25_w.pdf,YouGov,Eurotrack,2283,0.48,0.33,0.2
+288,2025-01-20,2025-01-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/Internal_Brexit_250121.pdf,YouGov,N/A,2225,0.51,0.31,0.19
+287,2025-01-28,2025-01-29,https://bmgresearch.com/news/bmg-and-the-i-poll-the-uk-and-eu/,BMG Research,The i,1514,0.45,0.37,0.18
+286,2025-02-05,2025-02-06,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Feb25_Zy6Rw4I.pdf,YouGov,Eurotrack,2117,0.48,0.32,0.19
+285,2025-02-25,2025-02-26,https://bmgresearch.com/news/british-public-attitudes-to-support-for-ukraine/,BMG Research,The i,1586,0.45,0.4,0.15
+284,2025-03-13,2025-03-14,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Mar25_w_dKHbIBf.pdf,YouGov,Eurotrack,2155,0.49,0.31,0.21
+282,2025-03-16,2025-03-17,https://ygo-assets-websites-editorial-emea.yougov.net/documents/Copy_of_Internal_Brexit_250317.pdf,YouGov,N/A,2081,0.53,0.36,0.11
+283,2025-03-14,2025-03-17,https://deltapoll.co.uk/polls/voteint250318,Deltapoll,N/A,1974,0.49,0.35,0.15
+281,2025-03-26,2025-03-27,https://bmgresearch.com/news/bmg-and-the-i-polling-on-the-spring-statement/,BMG Research,The i,1544,0.45,0.38,0.17
+280,2025-04-09,2025-04-10,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_Apr25_w.pdf,YouGov,Eurotrack,2001,0.49,0.32,0.19
+279,2025-05-06,2025-05-08,https://bmgresearch.com/news/bmg-and-the-i-poll-voting-intention-trade-and-taxation/,BMG Research,The i,1525,0.41,0.4,0.18
+278,2025-05-12,2025-05-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/Topline_Eurotrack_May25_w_gugbx3J.pdf,YouGov,Eurotrack,2227,0.49,0.32,0.19
+277,2025-05-18,2025-05-19,https://ygo-assets-websites-editorial-emea.yougov.net/documents/Copy_of_Internal_Brexit_250519.pdf,YouGov,N/A,2212,0.53,0.35,0.12
+276,2025-05-28,2025-05-29,https://bmgresearch.com/news/bmg-and-the-i-poll-voting-intention-and-public-spending/,BMG Research,The i,1510,0.44,0.38,0.17
+275,2025-06-16,2025-06-17,https://ygo-assets-websites-editorial-emea.yougov.net/documents/Internal_Brexit_250617_w.pdf,YouGov,N/A,2239,0.56,0.34,0.1
