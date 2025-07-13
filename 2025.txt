@@ -1,4 +1,13 @@
 |-
+|{{opdrts|08|09|Jul|2025|year}}
+|[https://d3nkl3psvxxpe9.cloudfront.net/documents/Internal_UKEU_250709_w.pdf YouGov]
+|''N/A''
+|2,005
+|style="background:#DDE0EE"|'''54%'''
+|32%
+|13%
+|style="background:#4477AA;color:#FFFFFF;"|22%
+|-
 |{{opdrts|16|17|Jun|2025|year}}
 |[https://ygo-assets-websites-editorial-emea.yougov.net/documents/Internal_Brexit_250617_w.pdf YouGov]
 |''N/A''
